@@ -139,34 +139,31 @@ ul,li{
 	transform: translate(-26px,-10px);
 }
 /* contaienr3 */
-
-.c3bg{
+.container3{
 	position: relative;
 	height: 100vh;
-	
-	
 }
+
 .container3 .img1{
 	z-index: 3;
 	position:absolute;
-	right: 40px;
+	right: 0px;
 	top: 0;
 }
 .container3   .img2{
 	position: absolute;
-	height: 100vh;
+	height: 100%;
 	right: 0;
 	top: 0;
 	z-index:1 ;
 }
 
 .cbg img{
-	height: 100vh;
 	position: absolute;
-	bottom: 0;
+	top: 0;
 	left: 0;
 }
-.container3 .c3bg .content{
+.container3  .content{
 	background-color: white;
 	text-align: left;
 	position: absolute;
